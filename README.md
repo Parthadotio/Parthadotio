@@ -2,9 +2,9 @@
 
 ![banner](https://images4.alphacoders.com/134/thumb-1920-1346060.jpeg)
 
-# Parth
+# Partha
 
-Full-stack developer — MERN stack
+Full-stack developer
 
 *"If you don't take risks, you can't create a future."* — Monkey D. Luffy
 
@@ -23,5 +23,5 @@ Full-stack developer — MERN stack
 
 ### Contact
 Twitter → @parthadotio
-LinkedIn →
+LinkedIn → 
 Email → parthaprotim896@gmail.com
