@@ -1,8 +1,8 @@
 <div align="center">
-  <div align="center">
-    <img src="https://ik.imagekit.io/parthapp/ME/download.jpg?tr=w-100,h-100,r-max" alt="Partha" />
-  </div>
-  #Partha
+  <img src="https://ik.imagekit.io/parthapp/ME/download.jpg?tr=w-100,h-100,r-max" alt="Partha" />
+
+  # Partha
+
   Full-stack developer
 
   *"If you don't take risks, you can't create a future."* — Monkey D. Luffy
@@ -11,6 +11,7 @@
 ---
 
 ### Stack
+
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
@@ -28,7 +29,7 @@
 
 ---
 
-### 📬 Contact
+### Contact
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/parthadotio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
