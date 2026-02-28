@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://ik.imagekit.io/parthapp/ME/download.jpg" width="80" height="80" style="border-radius:50%" />
+  <div align="center">
+    <img src="https://ik.imagekit.io/parthapp/ME/download.jpg?tr=w-100,h-100,r-max" alt="Partha" />
+  </div>
   # Partha
   Full-stack developer
 
