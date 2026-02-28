@@ -1,6 +1,8 @@
 <div align="center">
 
-![banner](https://ik.imagekit.io/parthapp/ME/download.jpg)
+<div className="w-10 h-10 rounded-full">
+  ![banner](https://ik.imagekit.io/parthapp/ME/download.jpg)
+</div>
 
 # Partha
 
