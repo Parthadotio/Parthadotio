@@ -1,29 +1,34 @@
 <div align="center">
+  <img src="https://ik.imagekit.io/parthapp/ME/download.jpg" width="80" height="80" style="border-radius: 50%;" alt="Partha" />
 
-<div className="w-10 h-10 rounded-full">
-  ![banner](https://ik.imagekit.io/parthapp/ME/download.jpg)
+  # Partha
+  Full-stack developer
+
+  *"If you don't take risks, you can't create a future."* — Monkey D. Luffy
 </div>
 
-# Partha
+---
 
-Full-stack developer
+### 🛠 Stack
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Language:** JavaScript
 
-*"If you don't take risks, you can't create a future."* — Monkey D. Luffy
+---
 
-</div>
+### 🚀 Projects
 
-### Stack
-- Frontend: React, Next.js, Tailwind CSS
-- Backend: Node.js, Express
-- Database: MongoDB
-- Language: JavaScript
+| Project | Description | Link |
+|---------|-------------|------|
+| Project 1 | Short description | [↗](#) |
+| Project 2 | Short description | [↗](#) |
+| Project 3 | Short description | [↗](#) |
 
-### Projects
-- 
-- 
--
+---
 
-### Contact
-Twitter → @parthadotio
-LinkedIn →
-Email → parthaprotim896@gmail.com
+### 📬 Contact
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/parthadotio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:parthaprotim896@gmail.com)
