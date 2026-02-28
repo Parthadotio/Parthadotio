@@ -39,7 +39,7 @@ const partha = {
 
 ---
 <!-- Projects -->
-<h2 align="center">⚡ Things I've Built</h2>
+<h2 align="center">Things I've Built</h2>
 
 <div align="center">
 
