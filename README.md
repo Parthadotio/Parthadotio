@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://https://ik.imagekit.io/parthapp/ME/giphy.gif?tr=w-100,h-100,r-max" alt="Partha" />
-
+  <img src="https://ik.imagekit.io/parthapp/ME/giphy.gif?tr=w-100,h-100,r-max" alt="Partha" />
   # Partha
 
   Full-stack developer
