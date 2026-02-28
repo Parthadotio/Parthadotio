@@ -2,7 +2,7 @@
 
 ![banner](https://images4.alphacoders.com/134/thumb-1920-1346060.jpeg)
 
-# Partha
+# Parth
 
 Full-stack developer
 
@@ -14,7 +14,7 @@ Full-stack developer
 - Frontend: React, Next.js, Tailwind CSS
 - Backend: Node.js, Express
 - Database: MongoDB
-- Language: JavaScript / TypeScript
+- Language: JavaScript
 
 ### Projects
 - [sync-gdg](https://github.com/Parthadotio/Sync_GDG) — real-time sync app
@@ -23,5 +23,5 @@ Full-stack developer
 
 ### Contact
 Twitter → @parthadotio
-LinkedIn → 
+LinkedIn →
 Email → parthaprotim896@gmail.com
