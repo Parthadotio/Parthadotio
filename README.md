@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ik.imagekit.io/parthapp/ME/download.jpg?updatedAt=1772316176389?tr=w-100,h-100,r-max" alt="Partha" />
+  <img src="https://ik.imagekit.io/parthapp/ME/download.jpg?tr=w-100,h-100,r-max" alt="Partha" />
 
   <h1>Partha</h1>
 
