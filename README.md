@@ -2,7 +2,7 @@
 
 ![banner](https://images4.alphacoders.com/134/thumb-1920-1346060.jpeg)
 
-# Parth
+# Partha
 
 Full-stack developer
 
@@ -17,9 +17,9 @@ Full-stack developer
 - Language: JavaScript
 
 ### Projects
-- [sync-gdg](https://github.com/Parthadotio/Sync_GDG) — real-time sync app
-- [slovex](https://github.com/Parthadotio/SloveX) — problem solving platform
-- [kanban-board](https://github.com/Parthadotio/kanban-board) — task management board
+- 
+- 
+-
 
 ### Contact
 Twitter → @parthadotio
