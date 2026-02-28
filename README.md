@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXBreDVyNGFiaThsbWd6Z2U2YzBtenN5MzZlczA5dDk2dG0zbGd6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fr1O9tCKDH41lkbSW5/giphy.gif?tr=w-100,h-100,r-max" alt="Partha" />
+  <img src="https://https://ik.imagekit.io/parthapp/ME/giphy.gif?tr=w-100,h-100,r-max" alt="Partha" />
 
   # Partha
 
