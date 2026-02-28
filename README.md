@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://images4.alphacoders.com/134/thumb-1920-1346060.jpeg)
+![banner](https://ik.imagekit.io/parthapp/ME/download.jpg)
 
 # Partha
 
