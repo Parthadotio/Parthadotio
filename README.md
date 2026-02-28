@@ -2,7 +2,7 @@
   <div align="center">
     <img src="https://ik.imagekit.io/parthapp/ME/download.jpg?tr=w-100,h-100,r-max" alt="Partha" />
   </div>
-  # Partha
+  #Partha
   Full-stack developer
 
   *"If you don't take risks, you can't create a future."* — Monkey D. Luffy
